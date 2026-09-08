@@ -24,16 +24,17 @@
 
 <br/>
 
-## 👨‍💻 نبذة عني
+## 👨‍💻 About Me
 
-أنا **وسيم الحاتمي**، مطوّر برمجيات شغوف ببناء تطبيقات موبايل وويب
-عملية وحديثة تركّز على المستخدم.
+I'm **Waseem Alhatmi**, a Software Developer passionate about building
+modern, practical, and user-focused mobile and web applications.
 
-أستمتع بتحويل الأفكار الواقعية إلى منتجات برمجية فعّالة، مع التركيز
-على واجهات نظيفة، حلول عملية، وتحسين مستمر عبر التطوير الفعلي للمشاريع.
+I enjoy turning real-world ideas into functional software products,
+with a strong focus on clean interfaces, practical solutions, and
+continuous improvement through hands-on development.
 
-اهتماماتي الحالية تشمل **تطبيقات الموبايل، تطبيقات الويب، الأنظمة
-الخلفية (Backend)، قواعد البيانات، وحلول البرمجيات الحديثة**.
+My current interests span **mobile app development, web development,
+backend systems, databases, and modern software architecture**.
 
 ```yaml
 name: Waseem Alhatmi
@@ -45,31 +46,31 @@ currently_learning: "Deepening Backend & API Architecture"
 
 <br/>
 
-## 🚀 ماذا أفعل
+## 🚀 What I Do
 
 <table>
 <tr>
 <td width="50%" valign="top">
 
-**📱 تطوير الموبايل**
-- بناء تطبيقات Flutter عبر الأندرويد و iOS
-- واجهات مستخدم نظيفة وسريعة الاستجابة
-- إدارة الحالة (State Management) وهيكلة نظيفة للمشاريع
+**📱 Mobile Development**
+- Building cross-platform apps with Flutter for Android & iOS
+- Clean, responsive, and performant user interfaces
+- Proper state management and scalable project structure
 
-**🌐 تطوير الويب**
-- تطبيقات ويب تفاعلية باستخدام HTML/CSS/JavaScript
-- تصميم واجهات سهلة الاستخدام
+**🌐 Web Development**
+- Interactive web applications with HTML, CSS, and JavaScript
+- Designing intuitive, user-friendly interfaces
 
 </td>
 <td width="50%" valign="top">
 
-**⚙️ الأنظمة الخلفية**
-- بناء وتكامل واجهات برمجة التطبيقات (APIs)
-- العمل مع قواعد البيانات وتصميم الأنظمة
+**⚙️ Backend Systems**
+- Building and integrating application APIs
+- Working with databases and system architecture
 
-**🔧 جودة الكود**
-- تحسين وإعادة هيكلة المشاريع باستمرار
-- التركيز على فهم "لماذا يعمل الحل" وليس فقط جعله يعمل
+**🔧 Code Quality**
+- Continuously refining and refactoring projects
+- Focused on understanding *why* a solution works, not just making it work
 
 </td>
 </tr>
@@ -77,7 +78,7 @@ currently_learning: "Deepening Backend & API Architecture"
 
 <br/>
 
-## 🛠️ التقنيات والأدوات
+## 🛠️ Tech Stack
 
 <div align="center">
 
@@ -109,7 +110,7 @@ currently_learning: "Deepening Backend & API Architecture"
 
 <br/>
 
-## 📊 إحصائيات GitHub
+## 📊 GitHub Stats
 
 <div align="center">
 
@@ -128,7 +129,7 @@ currently_learning: "Deepening Backend & API Architecture"
 
 <br/>
 
-## 🚀 أبرز المشاريع
+## 🚀 Featured Projects
 
 <div align="center">
 
@@ -145,66 +146,72 @@ currently_learning: "Deepening Backend & API Architecture"
 </div>
 
 ### 🛒 Shop Wave
-تطبيق تجارة إلكترونية حديث يوفر تجربة تسوّق عملية وسهلة الاستخدام.
-- 🛍️ تصفّح واكتشاف المنتجات
-- 📱 واجهة مصممة أولاً للموبايل (Mobile-first)
-- ⚡ تجربة استخدام سلسة وعملية
+A modern e-commerce application focused on delivering a practical
+and user-friendly shopping experience.
 
-**التقنيات:** `Flutter` • `Dart`
-**الرابط:** https://github.com/waseemalhatmi/shop_wave
+- 🛍️ Product browsing and discovery
+- 📱 Mobile-first interface
+- ⚡ Smooth, practical user experience
+
+**Tech Stack:** `Flutter` • `Dart`
+**Repository:** https://github.com/waseemalhatmi/shop_wave
 
 ---
 
 ### 🏠 Yemen Aqaar
-تطبيق عقارات يساعد المستخدمين على استكشاف وإدارة قوائم العقارات
-عبر تجربة رقمية حديثة.
-- 🔎 اكتشاف العقارات حسب الموقع
-- 📍 معلومات عقارية مبنية على الموقع الجغرافي
-- 🎨 واجهة تركّز على المستخدم
+A real-estate application designed to help users explore and manage
+property listings through a modern digital experience.
 
-**التقنيات:** `Flutter` • `Dart`
-**الرابط:** https://github.com/waseemalhatmi/Yemen-aqaar
+- 🔎 Location-based property discovery
+- 📍 Detailed, location-aware property information
+- 🎨 User-focused interface design
+
+**Tech Stack:** `Flutter` • `Dart`
+**Repository:** https://github.com/waseemalhatmi/Yemen-aqaar
 
 ---
 
 ### 🌸 ATR Perfume Platform
-مشروع برمجي متخصص بالعطور يوفّر تجربة رقمية لتصفح والتفاعل مع
-المنتجات.
-- 🌸 كتالوج منتجات كامل
-- 💻 تجربة تسوّق رقمية
-- 🎨 واجهة سهلة الاستخدام
+A perfume-focused software project offering a digital experience
+for browsing and interacting with fragrance products.
 
-**التقنيات:** `Python`
-**الرابط:** https://github.com/waseemalhatmi/atr-perfume-platform
+- 🌸 Full product catalog
+- 💻 Digital shopping experience
+- 🎨 User-friendly interface
+
+**Tech Stack:** `Python`
+**Repository:** https://github.com/waseemalhatmi/atr-perfume-platform
 
 <br/>
 
-## 💡 فلسفتي في التطوير
+## 💡 Development Philosophy
 
 > **Build. Learn. Improve. Repeat.**
 
-أؤمن أن أفضل طريقة لتصبح مطوّرًا أفضل هي عبر بناء مشاريع حقيقية،
-حل مشاكل واقعية، وتحسين جودة الكود بشكل مستمر.
+I believe the best way to grow as a developer is by building real
+projects, solving real problems, and continuously improving the
+quality of the software I create.
 
-أركّز على فهم **لماذا** يعمل الحل، وليس فقط جعل الكود يعمل.
+I focus on understanding **why** a solution works — not just making
+the code run.
 
 <br/>
 
-## 🎯 التركيز الحالي
+## 🎯 Current Focus
 
 ```text
-📱 تطوير تطبيقات الموبايل (Flutter)
-🌐 تطوير تطبيقات الويب
-⚙️ تطوير الأنظمة الخلفية
-🗄️ أنظمة قواعد البيانات
-🔌 واجهات برمجة التطبيقات (APIs) وتكامل الأنظمة
-🎨 تحسين تجربة المستخدم (UI/UX)
-🚀 بناء مشاريع برمجية واقعية
+📱 Mobile Application Development (Flutter)
+🌐 Web Application Development
+⚙️ Backend Development
+🗄️ Database Systems
+🔌 APIs & System Integration
+🎨 UI/UX Improvement
+🚀 Building Real-World Software Projects
 ```
 
 <br/>
 
-## 📫 تواصل معي
+## 📫 Let's Connect
 
 <div align="center">
 
