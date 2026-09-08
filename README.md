@@ -1,229 +1,216 @@
-<div align="center">
+<div align="center">Waseem Alhatmi
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0A66C2,100:02569B&height=200&section=header&text=Waseem%20Alhatmi&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Software%20Developer%20%7C%20Mobile%20%26%20Web%20Applications&descAlignY=58&descSize=18" width="100%"/>
-
-<br/>
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=800&color=0A66C2&center=true&vCenter=true&width=600&lines=Flutter+%26+Dart+Developer;Mobile+%26+Web+Applications+Builder;Clean+Code+%7C+Practical+Solutions;Build.+Learn.+Improve.+Repeat.)](https://git.io/typing-svg)
+Software Developer • Flutter & Dart • Mobile & Web Applications
 
 <p>
   <a href="https://github.com/waseemalhatmi">
-    <img src="https://img.shields.io/badge/GitHub-waseemalhatmi-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+    <img src="https://img.shields.io/badge/GitHub-waseemalhatmi-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
   </a>
   <a href="https://www.linkedin.com/in/engwaseem1">
-    <img src="https://img.shields.io/badge/LinkedIn-Waseem%20Alhatmi-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+    <img src="https://img.shields.io/badge/LinkedIn-Waseem%20Alhatmi-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
-</p>
+</p><p>
+  <img src="https://komarev.com/ghpvc/?username=waseemalhatmi&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="Profile views">
+  <img src="https://img.shields.io/github/followers/waseemalhatmi?label=Followers&style=for-the-badge&color=0e75b6" alt="GitHub followers">
+</p><img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=21&duration=3000&pause=900&color=0A66C2&center=true&vCenter=true&width=700&lines=Flutter+%26+Dart+Developer;Mobile+%26+Web+Application+Builder;Clean+Code+%7C+Practical+Solutions;Build.+Learn.+Improve.+Repeat." alt="Typing SVG"></div>---
 
-<p>
-  <img src="https://komarev.com/ghpvc/?username=waseemalhatmi&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="Profile Views"/>
-  <img src="https://img.shields.io/github/followers/waseemalhatmi?label=Followers&style=for-the-badge&color=0e75b6" alt="Followers"/>
-</p>
+👨‍💻 About Me
 
-</div>
+I'm Waseem Alhatmi, a Software Developer focused on building practical, modern, and user-oriented applications.
 
-<br/>
+I enjoy turning ideas into working software with an emphasis on clear architecture, maintainable code, intuitive interfaces, and continuous improvement.
 
-## 👨‍💻 About Me
+My main areas of interest include Flutter mobile development, web applications, backend integration, databases, APIs, and software architecture.
 
-I'm **Waseem Alhatmi**, a Software Developer passionate about building
-modern, practical, and user-focused mobile and web applications.
-
-I enjoy turning real-world ideas into functional software products,
-with a strong focus on clean interfaces, practical solutions, and
-continuous improvement through hands-on development.
-
-My current interests span **mobile app development, web development,
-backend systems, databases, and modern software architecture**.
-
-```yaml
 name: Waseem Alhatmi
 role: Software Developer
-focus: [Mobile Development, Web Development, Backend Systems, Databases]
+primary_focus:
+  - Flutter
+  - Dart
+  - Mobile Applications
+  - Web Applications
+interests:
+  - Backend Development
+  - APIs & System Integration
+  - Databases
+  - Software Architecture
 philosophy: "Build. Learn. Improve. Repeat."
-currently_learning: "Deepening Backend & API Architecture"
-```
 
-<br/>
+---
 
-## 🚀 What I Do
+🧠 What I Do
 
 <table>
-<tr>
-<td width="50%" valign="top">
+  <tr>
+    <td width="50%" valign="top">📱 Mobile Development
 
-**📱 Mobile Development**
-- Building cross-platform apps with Flutter for Android & iOS
-- Clean, responsive, and performant user interfaces
-- Proper state management and scalable project structure
+- Build cross-platform applications with Flutter and Dart
 
-**🌐 Web Development**
-- Interactive web applications with HTML, CSS, and JavaScript
-- Designing intuitive, user-friendly interfaces
+- Develop responsive and user-focused interfaces
 
-</td>
-<td width="50%" valign="top">
+- Organize projects with scalable and maintainable structures
 
-**⚙️ Backend Systems**
-- Building and integrating application APIs
-- Working with databases and system architecture
+- Work with navigation, state management, APIs, and local data
+  
+    </td>
+  <td width="50%" valign="top">
 
-**🔧 Code Quality**
-- Continuously refining and refactoring projects
-- Focused on understanding *why* a solution works, not just making it work
+🌐 Web & Backend
 
-</td>
+- Build practical web applications and interfaces
+
+- Integrate applications with backend services and APIs
+
+- Work with databases and application data flows
+
+- Connect frontend experiences with reliable backend functionality
+  
+    </td>
 </tr>
-</table>
+<tr>
+  <td width="50%" valign="top">
 
-<br/>
+🧩 Software Engineering
 
-## 🛠️ Tech Stack
+- Focus on readable, maintainable code
 
-<div align="center">
+- Refactor and improve projects continuously
 
-**📱 Mobile Development**
+- Apply structured development and debugging practices
 
-<img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white"/>
-<img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white"/>
+- Learn by building real projects and solving real problems
+  
+    </td>
+  <td width="50%" valign="top">
 
-**🌐 Web Development**
+🎯 Current Direction
 
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
-<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+- Flutter application development
 
-**⚙️ Backend & Database**
+- Backend & API architecture
 
-<img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white"/>
-<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+- Database-driven applications
 
-**🔧 Tools & Platforms**
+- UI/UX improvement
 
-<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-<img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white"/>
-<img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/>
+- Building complete real-world software products
+  
+    </td>
+</tr>
 
-</div>
+</table>---
 
-<br/>
+🛠️ Tech Stack
 
-## 📊 GitHub Stats
+<div align="center">📱 Mobile
 
-<div align="center">
+<img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" alt="Flutter">
+<img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" alt="Dart">🌐 Web
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=waseemalhatmi&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=waseemalhatmi&layout=compact&theme=tokyonight&hide_border=true"/>
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5">
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3">
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript">
+<img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP">⚙️ Backend & Data
 
-<br/>
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python">
+<img src="https://img.shields.io/badge/Supabase-3FCF8E?style=for-the-badge&logo=supabase&logoColor=white" alt="Supabase">
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL">🔧 Tools
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=waseemalhatmi&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
+<img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code">
+<img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman"></div>---
 
-<br/>
+🚀 Featured Projects
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=waseemalhatmi&theme=tokyo-night&hide_border=true" width="100%"/>
+🛒 ShopWave
 
-</div>
+Flutter e-commerce application focused on delivering a complete and modern shopping experience.
 
-<br/>
+Highlights
 
-## 🚀 Featured Projects
+- Cross-platform Flutter application
+- Arabic and English support
+- Dark and light themes
+- Supabase authentication and backend integration
+- Shopping flow including products, cart, favorites, checkout, and orders
+- Clean Architecture and Riverpod-based project structure
 
-<div align="center">
+Stack: "Flutter" "Dart" "Riverpod" "Supabase"
 
 <a href="https://github.com/waseemalhatmi/shop_wave">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=waseemalhatmi&repo=shop_wave&theme=tokyonight&hide_border=true" />
-</a>
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=waseemalhatmi&repo=shop_wave&theme=tokyonight&hide_border=true" alt="ShopWave repository">
+</a>"View Repository →" (https://github.com/waseemalhatmi/shop_wave)
+
+---
+
+🏠 Yemen Aqaar
+
+Flutter real-estate application project focused on presenting property-related functionality through a dedicated mobile experience.
+
+Stack: "Flutter" "Dart"
+
 <a href="https://github.com/waseemalhatmi/Yemen-aqaar">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=waseemalhatmi&repo=Yemen-aqaar&theme=tokyonight&hide_border=true" />
-</a>
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=waseemalhatmi&repo=Yemen-aqaar&theme=tokyonight&hide_border=true" alt="Yemen Aqaar repository">
+</a>"View Repository →" (https://github.com/waseemalhatmi/Yemen-aqaar)
+
+«Note: The repository should contain a project-specific README before presenting detailed feature claims.»
+
+---
+
+🌸 ATR Perfume Platform
+
+Python-based perfume platform project combining application logic and web-oriented components.
+
+Stack: "Python"
+
 <a href="https://github.com/waseemalhatmi/atr-perfume-platform">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=waseemalhatmi&repo=atr-perfume-platform&theme=tokyonight&hide_border=true" />
-</a>
-
-</div>
-
-### 🛒 Shop Wave
-A modern e-commerce application focused on delivering a practical
-and user-friendly shopping experience.
-
-- 🛍️ Product browsing and discovery
-- 📱 Mobile-first interface
-- ⚡ Smooth, practical user experience
-
-**Tech Stack:** `Flutter` • `Dart`
-**Repository:** https://github.com/waseemalhatmi/shop_wave
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=waseemalhatmi&repo=atr-perfume-platform&theme=tokyonight&hide_border=true" alt="ATR Perfume Platform repository">
+</a>"View Repository →" (https://github.com/waseemalhatmi/atr-perfume-platform)
 
 ---
 
-### 🏠 Yemen Aqaar
-A real-estate application designed to help users explore and manage
-property listings through a modern digital experience.
+📊 GitHub Analytics
 
-- 🔎 Location-based property discovery
-- 📍 Detailed, location-aware property information
-- 🎨 User-focused interface design
+<div align="center"><img height="165" src="https://github-readme-stats.vercel.app/api?username=waseemalhatmi&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="Waseem's GitHub statistics"><img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=waseemalhatmi&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Waseem's top languages"><br><br>
 
-**Tech Stack:** `Flutter` • `Dart`
-**Repository:** https://github.com/waseemalhatmi/Yemen-aqaar
+<img src="https://streak-stats.demolab.com/?user=waseemalhatmi&theme=tokyonight&hide_border=true" alt="GitHub contribution streak"><br><br>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=waseemalhatmi&theme=tokyo-night&hide_border=true" width="95%" alt="GitHub activity graph"></div>---
+
+📈 Development Focus
+
+Mobile Applications      ████████████████████  Flutter & Dart
+Web Applications         ███████████████░░░░░  Frontend & Integration
+Backend & APIs           ██████████████░░░░░░  Services & Architecture
+Databases                ██████████████░░░░░░  Data & Integration
+UI/UX                    ███████████████░░░░░  Interfaces & Experience
+Software Architecture    █████████████░░░░░░░  Maintainable Systems
 
 ---
 
-### 🌸 ATR Perfume Platform
-A perfume-focused software project offering a digital experience
-for browsing and interacting with fragrance products.
+💡 Development Philosophy
 
-- 🌸 Full product catalog
-- 💻 Digital shopping experience
-- 🎨 User-friendly interface
+«Build. Learn. Improve. Repeat.»
 
-**Tech Stack:** `Python`
-**Repository:** https://github.com/waseemalhatmi/atr-perfume-platform
+I believe strong software development comes from consistently building real projects, understanding the problem behind the code, and improving the solution over time.
 
-<br/>
+My goal is not only to make software work, but to make it clearer, more maintainable, more useful, and easier to evolve.
 
-## 💡 Development Philosophy
+---
 
-> **Build. Learn. Improve. Repeat.**
+🤝 Let's Connect
 
-I believe the best way to grow as a developer is by building real
-projects, solving real problems, and continuously improving the
-quality of the software I create.
+I'm always interested in learning, building meaningful software, and connecting with other developers and technology professionals.
 
-I focus on understanding **why** a solution works — not just making
-the code run.
+<div align="center"><a href="https://github.com/waseemalhatmi">
+  <img src="https://img.shields.io/badge/GitHub-View%20Profile-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub profile">
+</a><a href="https://www.linkedin.com/in/engwaseem1">
+  <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn profile">
+</a></div>---
 
-<br/>
+<div align="center">Thanks for visiting my profile 👋
 
-## 🎯 Current Focus
-
-```text
-📱 Mobile Application Development (Flutter)
-🌐 Web Application Development
-⚙️ Backend Development
-🗄️ Database Systems
-🔌 APIs & System Integration
-🎨 UI/UX Improvement
-🚀 Building Real-World Software Projects
-```
-
-<br/>
-
-## 📫 Let's Connect
-
-<div align="center">
-
-<a href="https://www.linkedin.com/in/engwaseem1">
-  <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-<a href="https://github.com/waseemalhatmi">
-  <img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-
-<br/><br/>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0A66C2,100:02569B&height=100&section=footer" width="100%"/>
+Waseem Alhatmi
 
 </div>
