@@ -1,8 +1,10 @@
 <div align="center">
 
-# 👋 Hello, I'm Waseem Alhatmi
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0A66C2,100:02569B&height=200&section=header&text=Waseem%20Alhatmi&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Software%20Developer%20%7C%20Mobile%20%26%20Web%20Applications&descAlignY=58&descSize=18" width="100%"/>
 
-### 💻 Software Developer | Mobile & Web Applications
+<br/>
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=800&color=0A66C2&center=true&vCenter=true&width=600&lines=Flutter+%26+Dart+Developer;Mobile+%26+Web+Applications+Builder;Clean+Code+%7C+Practical+Solutions;Build.+Learn.+Improve.+Repeat.)](https://git.io/typing-svg)
 
 <p>
   <a href="https://github.com/waseemalhatmi">
@@ -14,163 +16,207 @@
 </p>
 
 <p>
-  <img src="https://komarev.com/ghpvc/?username=waseemalhatmi&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views"/>
+  <img src="https://komarev.com/ghpvc/?username=waseemalhatmi&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="Profile Views"/>
+  <img src="https://img.shields.io/github/followers/waseemalhatmi?label=Followers&style=for-the-badge&color=0e75b6" alt="Followers"/>
 </p>
 
 </div>
 
+<br/>
+
+## 👨‍💻 نبذة عني
+
+أنا **وسيم الحاتمي**، مطوّر برمجيات شغوف ببناء تطبيقات موبايل وويب
+عملية وحديثة تركّز على المستخدم.
+
+أستمتع بتحويل الأفكار الواقعية إلى منتجات برمجية فعّالة، مع التركيز
+على واجهات نظيفة، حلول عملية، وتحسين مستمر عبر التطوير الفعلي للمشاريع.
+
+اهتماماتي الحالية تشمل **تطبيقات الموبايل، تطبيقات الويب، الأنظمة
+الخلفية (Backend)، قواعد البيانات، وحلول البرمجيات الحديثة**.
+
+```yaml
+name: Waseem Alhatmi
+role: Software Developer
+focus: [Mobile Development, Web Development, Backend Systems, Databases]
+philosophy: "Build. Learn. Improve. Repeat."
+currently_learning: "Deepening Backend & API Architecture"
+```
+
+<br/>
+
+## 🚀 ماذا أفعل
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+**📱 تطوير الموبايل**
+- بناء تطبيقات Flutter عبر الأندرويد و iOS
+- واجهات مستخدم نظيفة وسريعة الاستجابة
+- إدارة الحالة (State Management) وهيكلة نظيفة للمشاريع
+
+**🌐 تطوير الويب**
+- تطبيقات ويب تفاعلية باستخدام HTML/CSS/JavaScript
+- تصميم واجهات سهلة الاستخدام
+
+</td>
+<td width="50%" valign="top">
+
+**⚙️ الأنظمة الخلفية**
+- بناء وتكامل واجهات برمجة التطبيقات (APIs)
+- العمل مع قواعد البيانات وتصميم الأنظمة
+
+**🔧 جودة الكود**
+- تحسين وإعادة هيكلة المشاريع باستمرار
+- التركيز على فهم "لماذا يعمل الحل" وليس فقط جعله يعمل
+
+</td>
+</tr>
+</table>
+
+<br/>
+
+## 🛠️ التقنيات والأدوات
+
+<div align="center">
+
+**📱 Mobile Development**
+
+<img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white"/>
+<img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white"/>
+
+**🌐 Web Development**
+
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+
+**⚙️ Backend & Database**
+
+<img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white"/>
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+
+**🔧 Tools & Platforms**
+
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white"/>
+<img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/>
+
+</div>
+
+<br/>
+
+## 📊 إحصائيات GitHub
+
+<div align="center">
+
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=waseemalhatmi&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=waseemalhatmi&layout=compact&theme=tokyonight&hide_border=true"/>
+
+<br/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=waseemalhatmi&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
+
+<br/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=waseemalhatmi&theme=tokyo-night&hide_border=true" width="100%"/>
+
+</div>
+
+<br/>
+
+## 🚀 أبرز المشاريع
+
+<div align="center">
+
+<a href="https://github.com/waseemalhatmi/shop_wave">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=waseemalhatmi&repo=shop_wave&theme=tokyonight&hide_border=true" />
+</a>
+<a href="https://github.com/waseemalhatmi/Yemen-aqaar">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=waseemalhatmi&repo=Yemen-aqaar&theme=tokyonight&hide_border=true" />
+</a>
+<a href="https://github.com/waseemalhatmi/atr-perfume-platform">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=waseemalhatmi&repo=atr-perfume-platform&theme=tokyonight&hide_border=true" />
+</a>
+
+</div>
+
+### 🛒 Shop Wave
+تطبيق تجارة إلكترونية حديث يوفر تجربة تسوّق عملية وسهلة الاستخدام.
+- 🛍️ تصفّح واكتشاف المنتجات
+- 📱 واجهة مصممة أولاً للموبايل (Mobile-first)
+- ⚡ تجربة استخدام سلسة وعملية
+
+**التقنيات:** `Flutter` • `Dart`
+**الرابط:** https://github.com/waseemalhatmi/shop_wave
+
 ---
 
-## 👨‍💻 About Me
+### 🏠 Yemen Aqaar
+تطبيق عقارات يساعد المستخدمين على استكشاف وإدارة قوائم العقارات
+عبر تجربة رقمية حديثة.
+- 🔎 اكتشاف العقارات حسب الموقع
+- 📍 معلومات عقارية مبنية على الموقع الجغرافي
+- 🎨 واجهة تركّز على المستخدم
 
-I'm **Waseem Alhatmi**, a Software Developer interested in building
-modern, practical, and user-focused mobile and web applications.
-
-I enjoy turning real-world ideas into functional software products,
-with a focus on clean interfaces, practical solutions, and continuous
-improvement through hands-on development.
-
-My current development interests include **mobile applications,
-web applications, backend systems, databases, and modern software solutions**.
+**التقنيات:** `Flutter` • `Dart`
+**الرابط:** https://github.com/waseemalhatmi/Yemen-aqaar
 
 ---
 
-## 🚀 What I Do
+### 🌸 ATR Perfume Platform
+مشروع برمجي متخصص بالعطور يوفّر تجربة رقمية لتصفح والتفاعل مع
+المنتجات.
+- 🌸 كتالوج منتجات كامل
+- 💻 تجربة تسوّق رقمية
+- 🎨 واجهة سهلة الاستخدام
 
-- 📱 Build mobile applications
-- 🌐 Develop web applications
-- 🧩 Design practical software solutions
-- 🗄️ Work with databases and backend systems
-- 🔌 Build and integrate application APIs
-- 🎨 Create clean and user-friendly interfaces
-- 🔧 Continuously improve and refactor projects
-- 📚 Learn new technologies through real-world projects
+**التقنيات:** `Python`
+**الرابط:** https://github.com/waseemalhatmi/atr-perfume-platform
 
----
+<br/>
 
-## 🛠️ Tech Stack
-
-### 📱 Mobile Development
-
-<p>
-  <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white"/>
-</p>
-
-### 🌐 Web Development
-
-<p>
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-</p>
-
-### ⚙️ Backend & Database
-
-<p>
-  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white"/>
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
-</p>
-
-### 🔧 Tools
-
-<p>
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-  <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white"/>
-</p>
-
----
-
-# 🚀 Featured Projects
-
-## 🛒 Shop Wave
-
-A modern e-commerce application focused on providing a practical
-and user-friendly shopping experience.
-
-### ✨ Highlights
-
-- 🛍️ Product browsing
-- 🔎 Product discovery
-- 🛒 Shopping experience
-- 📱 Mobile-first interface
-- 🎨 Modern application UI
-- ⚡ Practical user experience
-
-### 🛠️ Technologies
-
-`Flutter` • `Dart`
-
-🔗 **Repository:**  
-https://github.com/waseemalhatmi/shop_wave
-
----
-
-## 🏠 Yemen Aqaar
-
-A real-estate application designed to help users explore and manage
-property listings through a modern digital experience.
-
-### ✨ Highlights
-
-- 🏠 Property listings
-- 🔎 Property discovery
-- 📍 Location-based property information
-- 📱 Mobile application experience
-- 🎨 User-focused interface
-
-### 🛠️ Technologies
-
-`Flutter` • `Dart`
-
-🔗 **Repository:**  
-https://github.com/waseemalhatmi/Yemen-aqaar
-
----
-
-## 🌸 ATR Perfume Platform
-
-A perfume-focused software project designed to provide a digital
-experience for browsing and interacting with perfume-related products.
-
-### ✨ Highlights
-
-- 🌸 Perfume catalog
-- 🛍️ Product presentation
-- 🔎 Product browsing
-- 💻 Digital shopping experience
-- 🎨 User-friendly interface
-
-### 🛠️ Technologies
-
-`Python`
-
-🔗 **Repository:**  
-https://github.com/waseemalhatmi/atr-perfume-platform
-
----
-
-# 💡 Development Philosophy
+## 💡 فلسفتي في التطوير
 
 > **Build. Learn. Improve. Repeat.**
 
-I believe the best way to become a better developer is by building
-real projects, solving real problems, and continuously improving
-the quality of the software I create.
+أؤمن أن أفضل طريقة لتصبح مطوّرًا أفضل هي عبر بناء مشاريع حقيقية،
+حل مشاكل واقعية، وتحسين جودة الكود بشكل مستمر.
 
-I focus on understanding **why** a solution works, not only on making
-the code work.
+أركّز على فهم **لماذا** يعمل الحل، وليس فقط جعل الكود يعمل.
 
----
+<br/>
 
-# 🎯 Current Focus
+## 🎯 التركيز الحالي
 
 ```text
-📱 Mobile Application Development
-🌐 Web Application Development
-⚙️ Backend Development
-🗄️ Database Systems
-🔌 APIs & System Integration
-🎨 UI/UX Improvement
-🚀 Building Real-World Software Projects
+📱 تطوير تطبيقات الموبايل (Flutter)
+🌐 تطوير تطبيقات الويب
+⚙️ تطوير الأنظمة الخلفية
+🗄️ أنظمة قواعد البيانات
+🔌 واجهات برمجة التطبيقات (APIs) وتكامل الأنظمة
+🎨 تحسين تجربة المستخدم (UI/UX)
+🚀 بناء مشاريع برمجية واقعية
+```
+
+<br/>
+
+## 📫 تواصل معي
+
+<div align="center">
+
+<a href="https://www.linkedin.com/in/engwaseem1">
+  <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+<a href="https://github.com/waseemalhatmi">
+  <img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+<br/><br/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0A66C2,100:02569B&height=100&section=footer" width="100%"/>
+
+</div>
